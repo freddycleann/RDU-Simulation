@@ -17,7 +17,7 @@ export const missions: Mission[] = [
     title: "ความซ้ำซ้อนของยาและขนาดยา",
     scenario: "นายสมชาย อายุ 55 ปี มีอาการปวดหลังมาก แพทย์สั่งยา Tramadol 50 mg PRN q6hr (เมื่อปวด) ในขณะเดียวกันพบว่ามีคำสั่งยา Codeine 30 mg 1×3 oral pc สำหรับอาการปวดเช่นกัน ผู้ป่วยร้องขอ Tramadol เพราะปวดมาก",
     question: "พยาบาลควรปฏิบัติอย่างไร?",
-    image: "/src/assets/mission2.jpg",
+    image: "/assets/mission2.jpg",
     options: [
       {
         text: "ให้ Tramadol ตามที่ผู้ป่วยขอ เพราะแพทย์สั่งไว้แล้ว",
@@ -46,7 +46,7 @@ export const missions: Mission[] = [
     title: "การคำนวณขนาดยาในเด็ก",
     scenario: "เด็กหญิงอายุ 5 ปี น้ำหนัก 20 กก. แพทย์สั่งยา Amoxicillin 500 mg ยาที่มีคือ Amoxicillin Syrup 250 mg/5 ml พยาบาลคำนวณได้ 10 ml",
     question: "พยาบาลควรปฏิบัติอย่างไร?",
-    image: "/src/assets/mission3.jpg",
+    image: "/assets/mission3.jpg",
     options: [
       {
         text: "สอบถามจากพยาบาลพี่เลี้ยงว่าเคยให้ขนาดเท่าไร",
@@ -75,7 +75,7 @@ export const missions: Mission[] = [
     title: "การให้ยาทางที่ถูกต้อง",
     scenario: "ผู้ป่วยสูงอายุ หาเส้นหลอดเลือดยาก และมีอาการอาเจียนตลอดเวลา แพทย์สั่งยา Ondansetron 4 mg IV (ฉีดเข้าหลอดเลือดดำ) ยาที่มีคือ Ondansetron 4 mg/ml (สำหรับฉีด) และแบบเม็ด 4 mg (สำหรับรับประทาน)",
     question: "พยาบาลควรปฏิบัติอย่างไร?",
-    image: "/src/assets/mission4.jpg",
+    image: "/assets/mission4.jpg",
     options: [
       {
         text: "ฉีด Ondansetron 4 mg IV ทันที",
